@@ -1,0 +1,7 @@
+{
+  "mode": "send",
+  "protocol": "tcp",
+  "host": "127.0.0.1",
+  "port": "8888",
+  "message": "Hello, Network!"
+}
