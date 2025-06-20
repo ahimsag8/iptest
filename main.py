@@ -1,14 +1,9 @@
 import sys
 import json
 import socket
-import threading
-import time
 from datetime import datetime
-from PySide6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
-                               QHBoxLayout, QGridLayout, QRadioButton, QButtonGroup,
-                               QLineEdit, QTextEdit, QPushButton, QLabel, QGroupBox,
-                               QMessageBox, QSplitter)
-from PySide6.QtCore import QThread, Signal, QTimer
+from PySide6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, QGridLayout, QRadioButton, QButtonGroup, QLineEdit, QTextEdit, QPushButton, QLabel, QGroupBox, QMessageBox)
+from PySide6.QtCore import QThread, Signal
 from PySide6.QtGui import QFont
 
 

@@ -1,7 +1,7 @@
 {
   "mode": "send",
-  "protocol": "tcp",
+  "protocol": "udp",
   "host": "127.0.0.1",
   "port": "5555",
-  "message": "Hello, Network! 응애"
+  "message": "Hello, Network! 응애 뉴진스 짱"
 }
